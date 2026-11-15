@@ -1,0 +1,5 @@
+Station,Suspect,Type,Score,Confidence,WindStable,Action,SDG
+RK Puram,Farm B,Stubble,377.51,0.65,Yes,"Advise avoiding outdoor activity","SDG 13"
+Anand Vihar,Traffic C,Traffic,369.02,0.41,Yes,"Enforce odd-even / traffic diversion","SDG 11.2"
+Punjabi Bagh,Farm B,Stubble,346.41,0.23,Yes,"Advise avoiding outdoor activity","SDG 13"
+ITO,Farm B,Stubble,255.13,0.14,No,"Advise avoiding outdoor activity","SDG 13"
